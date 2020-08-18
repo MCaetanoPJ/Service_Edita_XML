@@ -1,0 +1,6 @@
+C:\Users\Omnia\Documents\SharpDevelop Projects\Service_Edita_XML\Service_Edita_XML\bin\Debug\Service_Edita_XML.exe.config
+C:\Users\Omnia\Documents\SharpDevelop Projects\Service_Edita_XML\Service_Edita_XML\bin\Debug\Service_Edita_XML.exe
+C:\Users\Omnia\Documents\SharpDevelop Projects\Service_Edita_XML\Service_Edita_XML\bin\Debug\Service_Edita_XML.pdb
+C:\Users\Omnia\Documents\SharpDevelop Projects\Service_Edita_XML\Service_Edita_XML\obj\Debug\Service_Edita_XML.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Documents\SharpDevelop Projects\Service_Edita_XML\Service_Edita_XML\obj\Debug\Service_Edita_XML.exe
+C:\Users\Omnia\Documents\SharpDevelop Projects\Service_Edita_XML\Service_Edita_XML\obj\Debug\Service_Edita_XML.pdb
