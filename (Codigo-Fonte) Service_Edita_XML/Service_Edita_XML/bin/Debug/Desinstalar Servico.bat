@@ -1,3 +1,3 @@
-NET STOP "Service_Edita_XML"
+NET STOP "Editor_XML"
 timeout 3
-sc delete "Service_Edita_XML"
+sc delete "Editor_XML"
