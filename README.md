@@ -2,6 +2,8 @@
 
 Esse serviço foi desenvolvido para monitorar uma pasta escolhida pelo usuário onde tenha arquivo com extensão ".XML" e em seguida esses arquivos serão lidos e o valor dentro da TAG "codigo_lis" será corrigido, removendo o espaço em branco antes do valor, após isso o arquivo será atualizado e o próximo arquivo será lido, terminando apenas quando todos estiverem atualizados.
 
+O caminho a ser percorrido dentro do XML para encontrar a TAG "codigo_lis" é //entidade/pacientes/paciente
+
 O método de monitorar a pasta foi definido para todos os arquivo que forem criados dentro da pasta, incluindo arquivos arrastados, arquivos atualizados serão ignorados.
 
 # Para instalar o serviço
