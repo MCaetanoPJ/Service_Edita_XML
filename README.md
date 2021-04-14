@@ -38,7 +38,10 @@ WINDOWS 10
 
 # Observações Importantes
 OBS.: Caso o serviço não altere os arquivos XML, verifique o arquivo "XML_Log.txt"
+
 OBS.: Verifique sempre se existe uma "\" no final do endereço da pasta "XML_Config.txt" para evitar erros
+
+OBS.: Caso mesmo depois de seguir as instruções e o serviço ainda não estiver funcionando, tente reiniciar o computador ou trocar o endereço de onde a pasta deve ser lida
 
 Caso tenha dúvidas sobre como o SC create ou SC delete funciona utilize esse link:
 https://centraldeatendimento.totvs.com/hc/pt-br/articles/360040025993-Windows-Configura%C3%A7%C3%A3o-de-um-servi%C3%A7o-do-Windows-atrav%C3%A9s-do-sc-exe
