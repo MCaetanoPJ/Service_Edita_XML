@@ -4,23 +4,23 @@ Esse serviço foi desenvolvido para monitorar uma pasta escolhida pelo usuário 
 
 O método de monitorar a pasta foi definido para todos os arquivo que forem criados dentro da pasta, incluindo arquivos arrastados, arquivos atualizados serão ignorados.
 
-#O serviço foi testado nas seguintes versões Windows
+# O serviço foi testado nas seguintes versões Windows
 WINDOWS 7
 WINDOWS 8
 WINDOWS 10
 
-#Para instalar o serviço
+# Para instalar o serviço
 1° Crie uma pasta no disco C:// com o nome "Service_Edita_XML" (OBRIGATÓRIO)
 2° Execute o arquivo "Instalar Servico.bat" como administrador (OBRIGATÓRIO)
 3° Edite o arquivo "XML_Config.txt" que foi criado e insira o endereço da pasta que contém os arquivos XML (OBRIGATÓRIO)
 4° Execute o arquivo "Iniciar Servico.bat" como administrador
 
-#Para alterar o endereco da pasta que contém os arquivos XML
+# Para alterar o endereco da pasta que contém os arquivos XML
 1° Execute o arquivo "Parar Servico.bat" como administrador
 2° Edite o arquivo "XML_Config.txt" e insira o novo endereço da pasta que contém os arquivos XML
 3° Execute o arquivo "Iniciar Servico.bat" como administrador
 
-#Para desinstalar o serviço
+# Para desinstalar o serviço
 1° Para desinstalar o serviço execute o arquivo "Desinstalar Servico.bat" como administrador
 
 OBS.: Caso o serviço não altere os arquivos XML, reinicie o serviço e verifique o arquivo "XML_Log.txt", caso tenha problemas durante a instalação verifique se todos os passos foram seguidos.
