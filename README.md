@@ -20,7 +20,7 @@ WINDOWS 10
 
 *4° Execute o arquivo "Iniciar Servico.bat" como administrador
 
-# Para alterar o endereco da pasta que contém os arquivos XML
+# Para alterar o endereço da pasta que contém os arquivos XML
 *1° Execute o arquivo "Parar Servico.bat" como administrador 
 
 *2° Edite o arquivo "XML_Config.txt" e insira o novo endereço da pasta que contém os arquivos XML 
