@@ -20,6 +20,8 @@ WINDOWS 10
 
 *4° Execute o arquivo "Iniciar Servico.bat" como administrador
 
+OBS: Após o serviço estar instalado ele receberá o nome de "Editor_XML"
+
 # Para alterar o endereço da pasta que contém os arquivos XML
 *1° Execute o arquivo "Parar Servico.bat" como administrador 
 
