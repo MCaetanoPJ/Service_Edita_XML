@@ -6,18 +6,25 @@ O método de monitorar a pasta foi definido para todos os arquivo que forem cria
 
 # O serviço foi testado nas seguintes versões Windows
 WINDOWS 7
+
 WINDOWS 8
+
 WINDOWS 10
 
 # Para instalar o serviço
 *1° Crie uma pasta no disco C:// com o nome "Service_Edita_XML" (OBRIGATÓRIO)
+
 *2° Execute o arquivo "Instalar Servico.bat" como administrador (OBRIGATÓRIO) 
+
 *3° Edite o arquivo "XML_Config.txt" que foi criado e insira o endereço da pasta que contém os arquivos XML (OBRIGATÓRIO) 
+
 *4° Execute o arquivo "Iniciar Servico.bat" como administrador
 
 # Para alterar o endereco da pasta que contém os arquivos XML
 *1° Execute o arquivo "Parar Servico.bat" como administrador 
+
 *2° Edite o arquivo "XML_Config.txt" e insira o novo endereço da pasta que contém os arquivos XML 
+
 *3° Execute o arquivo "Iniciar Servico.bat" como administrador
 
 # Para desinstalar o serviço
