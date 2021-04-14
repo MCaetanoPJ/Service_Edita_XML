@@ -1,5 +1,6 @@
-sc create "Service_Edita_XML" binPath="C:\Users\Omnia\Documents\SharpDevelop Projects\Service_Edita_XML\Service_Edita_XML\bin\Debug\Service_Edita_XML.exe" start="auto"
+sc create "Editor_XML" binPath= "C:\Service_Edita_XML\Service_Edita_XML.exe" start= "auto" DisplayName= "Editor_XML"
 
+pause
 timeout 3
 
-NET START "Service_Edita_XML"
+echo >> XML_Config.txt
